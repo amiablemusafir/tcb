@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/jsp/login-page.jsp=UTF-8
+encoding//WebContent/WEB-INF/jsp/privecy-policy.jsp=UTF-8
+encoding//WebContent/WEB-INF/jsp/showContentDetails.jsp=UTF-8
+encoding//WebContent/WEB-INF/jsp/showPage21.jsp=UTF-8
+encoding//src/com/tcb/common/FTPLogger.java=UTF-8
+encoding//src/com/tcb/common/FTPLoggerThread.java=UTF-8
+encoding//src/com/tcb/common/Test2.java=UTF-8
+encoding//src/com/tcb/controller/ContentUploader.java=UTF-8
+encoding//src/com/tcb/controller/GreetingCommonAction.java=UTF-8
+encoding//src/com/tcb/controller/ImageUploader.java=UTF-8
+encoding/<project>=UTF-8

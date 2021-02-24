@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-configuration PUBLIC
+    "-//Hibernate/Hibernate Configuration DTD//EN"
+    "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+ 
+<hibernate-configuration>
+    <session-factory>
+        <mapping class="com.tcb.model.AdminDetailDto"></mapping>
+        <mapping class="com.tcb.model.QuizDetailsDto"></mapping>
+        <mapping class="com.tcb.model.QuizDetailsOptionDto"></mapping>
+        <mapping class="com.tcb.model.ArticleDetailsDto"></mapping>
+        <mapping class="com.tcb.model.ArticleContentDetailsDto"></mapping>
+        <mapping class="com.tcb.model.UserQuizDetailsDto"></mapping>
+    </session-factory>
+</hibernate-configuration>
